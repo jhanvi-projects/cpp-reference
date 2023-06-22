@@ -2,7 +2,6 @@
 
 void tut::tutDataTypesFundamental_int() 
 {
-
     /*
     Intgers
     
@@ -21,8 +20,6 @@ void tut::tutDataTypesFundamental_int()
     Unsigned Integer 64bit : unsigned int64_t, uint64_t, unsigned long int
     Unsigned Integer 128bit : __uint128_t
     */
-
-    
 
     std::cout << "Size of int32_t = " << sizeof(int32_t) << "\n";
     std::cout << "Min of int32_t  = " << std::numeric_limits<int32_t>::min() << "\n";
