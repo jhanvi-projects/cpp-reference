@@ -1,0 +1,22 @@
+#pragma once
+
+#include <iostream>
+#include <stdlib.h>
+#include <string>
+#include <array>
+#include <cmath>
+#include <stdio.h>
+#include <stdexcept>
+#include <vector>
+#include <complex>
+#include <memory>
+#include <map>
+#include <unordered_map>
+#include <set>
+#include <unordered_set>
+#include <list>
+#include <tuple>
+#include <limits>
+#include <fstream>
+#include <algorithm>
+#include <random>
