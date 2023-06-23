@@ -45,8 +45,6 @@ void tut::tutDataTypesFundamental_int()
     std::cout << "Min of char  = " << std::numeric_limits<char>::min() << "\n";
     std::cout << "Max of char  = " << std::numeric_limits<char>::max() << "\n";
 
-
-    
 }
 
  void tutDataTypesFundamental_real() 
